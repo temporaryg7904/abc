@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "Form URL Encoded Tests (12 Cases)",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
