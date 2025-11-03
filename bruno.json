@@ -5,5 +5,10 @@
   "ignore": [
     "node_modules",
     ".git"
-  ]
+  ],
+  "size": 0.005028724670410156,
+  "filesCount": 13,
+  "git": {
+    "autoSync": true
+  }
 }
